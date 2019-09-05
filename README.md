@@ -25,7 +25,7 @@ You'll find that code (or very similar code) in the following pages: `app/views/
 
 Looks like we've got some work to do.  Let's start with the author show page.  
 Let's remove the code from our `app/views/authors/show.html.erb` page.  Now our file should be empty:
-`app/views/authors/show.html.erb`
+`app/views/authors/show.html.erb`   
 ```
 
 ```
